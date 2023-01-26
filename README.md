@@ -36,20 +36,10 @@ Number of words in the txt file is displayed as the output.
 
 ## PROGRAM:
 ```
-Reference no : 22008695
-Developed by : ABRIN NISHA A
 
-num_words =0
-with open('python.py','r') as file1:
-    for i in file1:
-        word =i.split()
-        num_words += len(word)
-print("Number of words={0}".format(num_words))
 ```
 ### OUTPUT:
-![](w2.png)
 
-![](w.png)
 
 ## RESULT:
 Thus the program is written to find the word count from a text.
