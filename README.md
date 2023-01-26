@@ -1,11 +1,11 @@
-Word-count
-AIM:
+## Word-count
+## AIM:
 To write a python program for getting the word count from a text.
 
-EQUIPEMENT'S REQUIRED:
+## EQUIPEMENT'S REQUIRED:
 PC Anaconda - Python 3.7
 
-ALGORITHM:
+## ALGORITHM:
 Step 1:
 Create a txt file to count the number of word in that file.
 
@@ -24,13 +24,13 @@ Run the python program in terminal to get the output.
 Step 6:
 Number of words in the txt file is displayed as the output.
 
-PROGRAM:
+## PROGRAM:
 
 
-OUTPUT:
+## OUTPUT:
 
 
 
 
-RESULT:
+## RESULT:
 Thus the program is written to find the word count from a text.
